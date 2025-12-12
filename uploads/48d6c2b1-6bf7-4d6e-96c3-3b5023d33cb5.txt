@@ -1,0 +1,1962 @@
+[2025.12.10 09:41:30] Launched version: 6002004, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2025.12.10 09:41:30] Executable dir: C:/Users/Administrator/Downloads/, name: AyuGram.exe
+[2025.12.10 09:41:30] Initial working dir: C:/Users/Administrator/Downloads/
+[2025.12.10 09:41:30] Working dir: C:/Users/Administrator/Downloads/
+[2025.12.10 09:41:30] Command line: C:\Users\Administrator\Downloads\AyuGram.exe
+[2025.12.10 09:41:30] Executable path before check: C:/Users/Administrator/Downloads/AyuGram.exe
+[2025.12.10 09:41:30] Logs started
+[2025.12.10 09:41:30] WinRT Supported: [TRUE]
+[2025.12.10 09:41:30] AppUserModelID: AyuGram.AyuGramDesktop.12a92c429b93276edf324ec3128f0f8e
+[2025.12.10 09:41:30] Using DirectX compiler 'C:\WINDOWS\SYSTEM32\d3dcompiler_47.dll'.
+[2025.12.10 09:41:30] Connecting local socket to Global\3a1439849e078923dccb8bb4186e0b56-{87A94AB0-E370-4cde-98D3-ACC110C59666}...
+[2025.12.10 09:41:30] This is the only instance of Telegram, starting server and app...
+[2025.12.10 09:41:30] Moved logging from 'C:/Users/Administrator/Downloads/log_start0.txt' to 'C:/Users/Administrator/Downloads/log.txt'!
+[2025.12.10 09:41:30] Opened 'C:/Users/Administrator/Downloads/tdata/working' for reading, the previous AyuGram Desktop launch was not finished properly :( Crash log size: 0
+[2025.12.10 09:41:30] Global devicePixelRatio: 1
+[2025.12.10 09:41:30] QT_DPI_ADJUSTMENT_POLICY: AdjustDpi
+[2025.12.10 09:41:30] Primary screen DPI: 96, Base: 96.
+[2025.12.10 09:41:30] Computed screen scale: 100
+[2025.12.10 09:41:30] DevicePixelRatio: 1
+[2025.12.10 09:41:30] ScreenScale: 100
+[2025.12.10 09:41:31] Media Info: Type Playback, default: {0.0.0.00000000}.{80edb949-dbea-4816-b80a-cfa108d4a315}, list: { "Digital Audio (HDMI) (2- High Definition Audio Device)" <{0.0.0.00000000}.{01c14668-b685-414a-bb2f-0d130ec85a0c}>, "Digital Audio (HDMI) (2- High Definition Audio Device)" <{0.0.0.00000000}.{40284b84-c872-49a4-abd1-f43752c515af}>, "Speakers (High Definition Audio Device)" <{0.0.0.00000000}.{80edb949-dbea-4816-b80a-cfa108d4a315}>, "Digital Audio (HDMI) (2- High Definition Audio Device)" <{0.0.0.00000000}.{c245c0d0-3b05-4e0d-ab16-e5211e483ab4}>, "Headphones (High Definition Audio Device)" <{0.0.0.00000000}.{c623ad80-9f2b-4409-b13f-435dc2717858}>, "Digital Audio (HDMI) (2- High Definition Audio Device)" <{0.0.0.00000000}.{cd5dc1fe-3b0b-434a-b1d4-3f9c46168857}>, "Digital Audio (HDMI) (2- High Definition Audio Device)" <{0.0.0.00000000}.{d12eac54-6762-44a0-a83f-4a9d84031b8c}>, "Digital Audio (HDMI) (2- High Definition Audio Device)" <{0.0.0.00000000}.{e3bfcdec-16fb-486f-baa5-c041f8138079}> }, full list refresh: false
+[2025.12.10 09:41:31] Media Info: Type Capture, default: {0.0.1.00000000}.{042230b6-761e-40c3-84d8-d9dd9a6c028f}, list: { "Microphone (Genius Audio)" <{0.0.1.00000000}.{042230b6-761e-40c3-84d8-d9dd9a6c028f}>, "Microphone (High Definition Audio Device)" <{0.0.1.00000000}.{1884c69d-eae7-4219-86c6-77a0b7508010}>, "Microphone (rapoo camera)" <{0.0.1.00000000}.{2a88347d-69bb-427a-80ed-a35532c5bcb6}>, "Line In (High Definition Audio Device)" <{0.0.1.00000000}.{3c4b0a9f-fd27-4e6b-aff7-e75f5dfa0c3b}>, "Microphone (High Definition Audio Device)" <{0.0.1.00000000}.{6af9d6f2-d721-4de5-822d-8506d53c933c}> }, full list refresh: false
+[2025.12.10 09:41:31] Media Info: Type Camera, default: \\?\usb#vid_0458&pid_6006&mi_00#8&3b0771a8&1&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global, list: { "Genius Webcam" <\\?\usb#vid_0458&pid_6006&mi_00#8&3b0771a8&1&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global> }, full list refresh: true
+[2025.12.10 09:41:31] App Info: reading settings...
+[2025.12.10 09:41:31] App Info: reading encrypted settings...
+[2025.12.10 09:41:31] Lang Info: Loaded cached, keys: 9752
+[2025.12.10 09:41:31] Font: from ':/gui/fonts/OpenSans-Italic.ttf' loaded 'Open Sans'
+[2025.12.10 09:41:31] Font: from ':/gui/fonts/OpenSans-Regular.ttf' loaded 'Open Sans'
+[2025.12.10 09:41:31] Font: from ':/gui/fonts/OpenSans-SemiBold.ttf' loaded 'Open Sans Semibold'
+[2025.12.10 09:41:31] Font: from ':/gui/fonts/OpenSans-SemiBoldItalic.ttf' loaded 'Open Sans Semibold'
+[2025.12.10 09:41:31] Font: from ':/gui/fonts/Vazirmatn-UI-NL-Regular.ttf' loaded 'Vazirmatn UI NL'
+[2025.12.10 09:41:31] Font: from ':/gui/fonts/Vazirmatn-UI-NL-SemiBold.ttf' loaded 'Vazirmatn UI NL SemiBold'
+[2025.12.10 09:41:31] Language is not loaded
+[2025.12.10 09:41:31] Database is ok
+[2025.12.10 09:41:31] RCManager: requesting map
+[2025.12.10 09:41:32] OpenAL Logging Level: (not set)
+[2025.12.10 09:41:34] App Info: reading accounts info...
+[2025.12.10 09:41:34] App Info: reading encrypted info...
+[2025.12.10 09:41:34] App Info: reading map...
+[2025.12.10 09:41:34] App Info: reading encrypted map...
+[2025.12.10 09:41:34] App Info: reading encrypted user settings...
+[2025.12.10 09:41:34] App Info: encrypted user settings read.
+[2025.12.10 09:41:34] App Info: reading encrypted mtp data...
+[2025.12.10 09:41:34] MTP Info: read keys, current: 5, to destroy: 0
+[2025.12.10 09:41:34] Map read time: 94
+[2025.12.10 09:41:34] App Info: reading encrypted mtp config...
+[2025.12.10 09:41:34] Export Info: Destroy top bar by controller removal.
+[2025.12.10 09:41:34] OpenGL: Using custom 'gpu_driver_bug_list.json'.
+[2025.12.10 09:41:35] OpenGL Profile: OpenGLES.
+[2025.12.10 09:41:35] OpenGL Renderer: ANGLE (AMD, Radeon RX 570 Series Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.12027.9001)
+[2025.12.10 09:41:35] OpenGL Vendor: Google Inc. (AMD)
+[2025.12.10 09:41:35] OpenGL Version: OpenGL ES 3.0.0 (ANGLE 2.1.10 git hash: e3f59e8d0c3e)
+[2025.12.10 09:41:35] OpenGL Extensions: GL_EXT_sRGB, GL_ANGLE_renderability_validation, GL_EXT_render_snorm, GL_OES_EGL_image, GL_OES_compressed_ETC2_punchthroughA_sRGB8_alpha_texture, GL_CHROMIUM_lose_context, GL_EXT_polygon_offset_clamp, GL_EXT_float_blend, GL_OES_draw_elements_base_vertex, GL_EXT_texture_compression_dxt1, GL_CHROMIUM_bind_generates_resource, GL_EXT_shader_texture_lod, GL_EXT_texture_norm16, GL_OES_compressed_ETC2_sRGB8_texture, GL_WEBGL_video_texture, GL_ANGLE_program_cache_control, GL_OES_sample_variables, GL_EXT_conservative_depth, GL_EXT_disjoint_timer_query, GL_EXT_texture_compression_rgtc, GL_ANGLE_get_serialized_context_string, GL_ANGLE_lossy_etc_decode, GL_OES_compressed_EAC_RG11_signed_texture, GL_CHROMIUM_sync_query, GL_EXT_texture_storage, GL_NV_pack_subimage, , GL_KHR_parallel_shader_compile, GL_NV_fence, GL_EXT_color_buffer_float, GL_EXT_draw_buffers_indexed, GL_OES_depth24, GL_EXT_texture_compression_bptc, GL_EXT_blend_minmax, GL_ANGLE_multi_draw, GL_ANGLE_provoking_vertex, GL_APPLE_clip_distance, GL_EXT_color_buffer_half_float, GL_OES_mapbuffer, GL_NV_framebuffer_blit, GL_OES_shader_multisample_interpolation, GL_OES_compressed_EAC_RG11_unsigned_texture, GL_EXT_clip_cull_distance, GL_EXT_EGL_image_external_wrap_modes, GL_OES_element_index_uint, GL_CHROMIUM_bind_uniform_location, GL_CHROMIUM_copy_compressed_texture, GL_EXT_draw_buffers, GL_EXT_unpack_subimage, GL_EXT_texture_border_clamp, GL_OES_EGL_image_external, GL_OES_surfaceless_context, GL_EXT_depth_clamp, GL_EXT_texture_rg, GL_ANGLE_texture_usage, GL_ANGLE_pack_reverse_row_order, GL_ANGLE_client_arrays, GL_EXT_multi_draw_indirect, GL_ANGLE_base_vertex_base_instance, GL_OES_compressed_ETC2_sRGB8_alpha8_texture, GL_EXT_read_format_bgra, GL_EXT_robustness, GL_OES_compressed_EAC_R11_unsigned_texture, GL_ANGLE_base_vertex_base_instance_shader_builtin, GL_ANGLE_multiview_multisample, GL_AMD_performance_monitor, GL_EXT_base_instance, GL_OES_compressed_EAC_R11_signed_texture, GL_OES_compressed_ETC2_RGBA8_texture, GL_NV_EGL_stream_consumer_external, GL_OES_fbo_render_mipmap, GL_OES_texture_stencil8, GL_ANGLE_polygon_mode, GL_OVR_multiview2, GL_EXT_texture_mirror_clamp_to_edge, GL_OES_packed_depth_stencil, GL_EXT_texture_type_2_10_10_10_REV, GL_ANGLE_get_tex_level_parameter, GL_ANGLE_robust_client_memory, GL_ANGLE_stencil_texturing, GL_OES_texture_half_float_linear, GL_OES_compressed_ETC2_punchthroughA_RGBA8_texture, GL_OES_vertex_array_object, GL_EXT_map_buffer_range, GL_OES_get_program_binary, GL_OES_depth32, GL_ANGLE_instanced_arrays, GL_NV_pixel_buffer_object, GL_ANGLE_memory_size, GL_EXT_texture_format_BGRA8888, GL_OES_standard_derivatives, GL_ANGLE_request_extension, GL_ANGLE_shader_pixel_local_storage, GL_ANGLE_copy_texture_3d, GL_OES_EGL_image_external_essl3, GL_EXT_debug_marker, GL_OVR_multiview, GL_EXT_debug_label, GL_ANGLE_framebuffer_blit, GL_EXT_blend_func_extended, GL_OES_texture_npot, GL_ANGLE_framebuffer_multisample, GL_EXT_frag_depth, GL_EXT_occlusion_query_boolean, GL_OES_draw_buffers_indexed, GL_OES_compressed_ETC2_RGB8_texture, GL_ANGLE_depth_texture, GL_EXT_clip_control, GL_OES_rgb8_rgba8, GL_ANGLE_texture_multisample, GL_ANGLE_texture_compression_dxt3, GL_EXT_instanced_arrays, GL_ANGLE_texture_compression_dxt5, GL_NV_shader_noperspective_interpolation, GL_ANGLE_translated_shader_source, GL_EXT_multisampled_render_to_texture, GL_EXT_texture_compression_s3tc_srgb, GL_OES_texture_float_linear, GL_EXT_discard_framebuffer, GL_ANGLE_clip_cull_distance, GL_KHR_debug, GL_OES_texture_float, GL_EXT_draw_elements_base_vertex, GL_OES_texture_half_float, GL_OES_texture_border_clamp, GL_EXT_texture_filter_anisotropic, GL_CHROMIUM_copy_texture
+[2025.12.10 09:41:35] EGL Extensions: EGL_EXT_create_context_robustness, EGL_ANGLE_d3d_share_handle_client_buffer, EGL_ANGLE_d3d_texture_client_buffer, EGL_ANGLE_surface_d3d_texture_2d_share_handle, EGL_ANGLE_query_surface_pointer, EGL_ANGLE_window_fixed_size, EGL_ANGLE_keyed_mutex, EGL_ANGLE_surface_orientation, EGL_ANGLE_direct_composition, EGL_ANGLE_windows_ui_composition, EGL_NV_post_sub_buffer, EGL_KHR_create_context, EGL_KHR_image, EGL_KHR_image_base, EGL_KHR_gl_texture_2D_image, EGL_KHR_gl_texture_cubemap_image, EGL_KHR_gl_renderbuffer_image, EGL_KHR_get_all_proc_addresses, EGL_KHR_stream, EGL_KHR_stream_consumer_gltexture, EGL_NV_stream_consumer_gltexture_yuv, EGL_ANGLE_stream_producer_d3d_texture, EGL_ANGLE_create_context_webgl_compatibility, EGL_CHROMIUM_create_context_bind_generates_resource, EGL_CHROMIUM_sync_control, EGL_EXT_pixel_format_float, EGL_KHR_surfaceless_context, EGL_ANGLE_display_texture_share_group, EGL_ANGLE_display_semaphore_share_group, EGL_ANGLE_create_context_client_arrays, EGL_ANGLE_program_cache_control, EGL_ANGLE_robust_resource_initialization, EGL_ANGLE_create_context_extensions_enabled, EGL_ANDROID_blob_cache, EGL_ANDROID_recordable, EGL_ANGLE_image_d3d11_texture, EGL_ANGLE_create_context_backwards_compatible, EGL_KHR_no_config_context, EGL_KHR_create_context_no_error, EGL_KHR_reusable_sync, 
+[2025.12.10 09:41:35] OpenGL: QOpenGLContext created, version: 3.3.
+[2025.12.10 09:41:35] OpenGL: [TRUE] (Window)
+[2025.12.10 09:41:36] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.10 09:41:37] API Warning: not loaded minimal channel applied.
+[2025.12.10 09:44:54] RPC Error: request 74 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 09:44:54] RPC Error: request 75 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 09:47:22] Skipping message, because it is already in blocks!
+[2025.12.10 09:47:24] RPC Error: request 123 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 09:47:24] RPC Error: request 124 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 09:47:32] Skipping message, because it is already in blocks!
+[2025.12.10 09:47:44] Focus Assist: Microsoft.QuietHoursProfile.PriorityOnly, AppUserModelId: AyuGram.AyuGramDesktop.12a92c429b93276edf324ec3128f0f8e, Blocks: [TRUE]
+[2025.12.10 09:47:44] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.10 09:47:46] Audio Info: Closing audio playback device.
+[2025.12.10 09:47:57] Skipping message, because it is already in blocks!
+[2025.12.10 09:48:01] RPC Error: request 135 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 09:48:01] RPC Error: request 136 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 09:48:35] RPC Error: request 145 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 09:48:35] RPC Error: request 144 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 09:50:31] RPC Error: request 180 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 09:50:31] RPC Error: request 181 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 09:51:42] RPC Error: request 208 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 09:51:42] RPC Error: request 209 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 09:52:26] Skipping message, because it is already in blocks!
+[2025.12.10 09:53:26] RPC Error: request 238 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 09:53:26] RPC Error: request 239 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 09:56:33] RPC Error: request 252 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 09:56:33] RPC Error: request 255 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.10 09:56:42] API Warning: not loaded minimal channel applied.
+[2025.12.10 09:56:42] API Warning: not loaded minimal channel applied.
+[2025.12.10 09:56:42] API Warning: not loaded minimal channel applied.
+[2025.12.10 09:57:33] RPC Error: request 292 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 09:57:33] RPC Error: request 290 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.10 10:01:59] Skipping message, because it is already in blocks!
+[2025.12.10 10:03:55] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.10 10:03:57] Audio Info: Closing audio playback device.
+[2025.12.10 10:05:32] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.10 10:05:34] Audio Info: Closing audio playback device.
+[2025.12.10 10:05:42] RPC Error: request 360 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 10:05:42] RPC Error: request 359 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 10:06:22] Skipping message, because it is already in blocks!
+[2025.12.10 10:09:41] Skipping message, because it is already in blocks!
+[2025.12.10 10:41:42] RCManager: requesting map
+[2025.12.10 10:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.10 11:27:33] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.10 11:27:35] Audio Info: Closing audio playback device.
+[2025.12.10 11:27:37] RPC Error: request 728 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 11:27:37] RPC Error: request 727 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 11:27:50] OpenGL: [TRUE] (Window)
+[2025.12.10 11:27:50] Call Info: Creating group instance
+[2025.12.10 11:27:50] Call Info: Requesting join payload.
+[2025.12.10 11:27:50] Call Info: Join payload received, joining with ssrc: 1124220337.
+[2025.12.10 11:27:51] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.10 11:27:52] Audio Info: Closing audio playback device.
+[2025.12.10 11:30:30] RPC Error: request 818 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 11:30:30] RPC Error: request 819 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 11:30:33] Skipping message, because it is already in blocks!
+[2025.12.10 11:30:37] Skipping message, because it is already in blocks!
+[2025.12.10 11:30:47] Skipping message, because it is already in blocks!
+[2025.12.10 11:31:01] Skipping message, because it is already in blocks!
+[2025.12.10 11:31:12] Skipping message, because it is already in blocks!
+[2025.12.10 11:31:21] Skipping message, because it is already in blocks!
+[2025.12.10 11:31:27] Skipping message, because it is already in blocks!
+[2025.12.10 11:31:30] Skipping message, because it is already in blocks!
+[2025.12.10 11:31:39] RPC Error: request 2012 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 11:31:39] RPC Error: request 2013 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 11:31:41] Skipping message, because it is already in blocks!
+[2025.12.10 11:32:04] RPC Error: request 2041 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 11:32:04] RPC Error: request 2042 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 11:41:42] RCManager: requesting map
+[2025.12.10 11:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.10 12:10:44] RPC Error: request 2207 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 12:10:44] RPC Error: request 2206 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 12:10:53] Skipping message, because it is already in blocks!
+[2025.12.10 12:10:56] Skipping message, because it is already in blocks!
+[2025.12.10 12:11:04] Skipping message, because it is already in blocks!
+[2025.12.10 12:11:51] RPC Error: request 2904 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 12:11:51] RPC Error: request 2903 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 12:11:57] RPC Error: request 2913 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 12:11:57] RPC Error: request 2912 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 12:11:57] RPC Error: request 2917 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 12:11:57] RPC Error: request 2914 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 12:11:57] RPC Error: request 2915 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 12:11:57] RPC Error: request 2910 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 12:11:58] RPC Error: request 2916 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 12:11:58] RPC Error: request 2911 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 12:13:06] Skipping message, because it is already in blocks!
+[2025.12.10 12:13:10] RPC Error: request 3208 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 12:13:10] RPC Error: request 3207 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 12:19:56] Call Info: Creating group screen instance
+[2025.12.10 12:19:56] Call Info: Requesting join screen payload.
+[2025.12.10 12:19:56] Call Info: Join screen payload received, ssrc: 1069211254.
+[2025.12.10 12:20:23] Call Info: Creating group screen instance
+[2025.12.10 12:20:23] Call Info: Requesting join screen payload.
+[2025.12.10 12:20:23] Call Info: Join screen payload received, ssrc: 1509167061.
+[2025.12.10 12:37:39] Call Info: Hangup after groupCallDiscarded.
+[2025.12.10 12:37:39] Call Info: Hangup after groupCallDiscarded.
+[2025.12.10 12:37:41] RPC Error: request 3496 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 12:37:41] RPC Error: request 3495 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 12:38:52] RPC Error: request 3530 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 12:38:52] RPC Error: request 3529 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 12:38:55] Skipping message, because it is already in blocks!
+[2025.12.10 12:38:58] Skipping message, because it is already in blocks!
+[2025.12.10 12:39:03] Skipping message, because it is already in blocks!
+[2025.12.10 12:41:42] RCManager: requesting map
+[2025.12.10 12:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.10 12:44:59] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.10 12:45:01] Audio Info: Closing audio playback device.
+[2025.12.10 12:47:53] RPC Error: request 3912 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 12:47:53] RPC Error: request 3913 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 13:11:32] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.10 13:11:34] Audio Info: Closing audio playback device.
+[2025.12.10 13:11:55] Skipping message, because it is already in blocks!
+[2025.12.10 13:12:49] Skipping message, because it is already in blocks!
+[2025.12.10 13:15:31] Skipping message, because it is already in blocks!
+[2025.12.10 13:15:34] Skipping message, because it is already in blocks!
+[2025.12.10 13:15:37] Skipping message, because it is already in blocks!
+[2025.12.10 13:15:38] Skipping message, because it is already in blocks!
+[2025.12.10 13:15:43] Skipping message, because it is already in blocks!
+[2025.12.10 13:15:53] Skipping message, because it is already in blocks!
+[2025.12.10 13:17:58] Skipping message, because it is already in blocks!
+[2025.12.10 13:20:45] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.10 13:20:47] Audio Info: Closing audio playback device.
+[2025.12.10 13:20:58] RPC Error: request 4496 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2025.12.10 13:20:59] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.10 13:21:11] Audio Info: Closing audio playback device.
+[2025.12.10 13:21:11] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.10 13:21:23] Audio Info: Closing audio playback device.
+[2025.12.10 13:22:48] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.10 13:22:50] Audio Info: Closing audio playback device.
+[2025.12.10 13:23:46] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.10 13:23:48] Audio Info: Closing audio playback device.
+[2025.12.10 13:25:17] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.10 13:25:19] Audio Info: Closing audio playback device.
+[2025.12.10 13:25:21] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.10 13:25:26] Audio Info: Closing audio playback device.
+[2025.12.10 13:25:44] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.10 13:26:04] Audio Info: Closing audio playback device.
+[2025.12.10 13:41:42] RCManager: requesting map
+[2025.12.10 13:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.10 14:10:19] RPC Error: request 4761 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2025.12.10 14:10:25] RPC Error: request 4815 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 14:10:25] RPC Error: request 4816 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 14:10:25] RPC Error: request 4817 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 14:10:45] RPC Error: request 4898 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 14:10:45] RPC Error: request 4897 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 14:10:46] RPC Error: request 4914 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 14:10:46] RPC Error: request 4913 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 14:10:46] RPC Error: request 4910 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2025.12.10 14:13:16] RPC Error: request 5224 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2025.12.10 14:41:42] RCManager: requesting map
+[2025.12.10 14:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.10 14:45:15] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.10 14:45:17] Audio Info: Closing audio playback device.
+[2025.12.10 14:47:35] RPC Error: request 5424 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 14:47:35] RPC Error: request 5423 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 14:47:39] RPC Error: request 5441 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 14:47:39] RPC Error: request 5447 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.10 14:47:40] RPC Error: request 5466 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 14:47:42] RPC Error: request 5486 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 14:47:42] RPC Error: request 5490 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 14:47:42] RPC Error: request 5488 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 14:47:42] RPC Error: request 5487 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 14:47:42] RPC Error: request 5489 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 14:47:42] RPC Error: request 5491 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 14:47:42] RPC Error: request 5493 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 14:47:42] RPC Error: request 5492 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 14:49:05] RPC Error: request 5574 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 14:49:05] RPC Error: request 5573 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 14:50:06] RPC Error: request 5581 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 14:50:06] RPC Error: request 5582 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 14:53:01] Skipping message, because it is already in blocks!
+[2025.12.10 14:55:11] RPC Error: request 5622 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 14:55:11] RPC Error: request 5623 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 15:15:13] RPC Error: request 5771 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 15:15:13] RPC Error: request 5770 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 15:15:28] Skipping message, because it is already in blocks!
+[2025.12.10 15:18:46] Skipping message, because it is already in blocks!
+[2025.12.10 15:19:34] RPC Error: request 5799 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 15:19:34] RPC Error: request 5800 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 15:32:38] RPC Error: request 5849 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 15:32:38] RPC Error: request 5848 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 15:41:42] RCManager: requesting map
+[2025.12.10 15:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.10 16:18:55] RPC Error: request 5990 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 16:18:55] RPC Error: request 5991 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 16:19:02] Skipping message, because it is already in blocks!
+[2025.12.10 16:19:05] Skipping message, because it is already in blocks!
+[2025.12.10 16:19:13] Skipping message, because it is already in blocks!
+[2025.12.10 16:19:18] Skipping message, because it is already in blocks!
+[2025.12.10 16:19:21] Skipping message, because it is already in blocks!
+[2025.12.10 16:19:27] RPC Error: request 7883 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 16:19:27] RPC Error: request 7882 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 16:19:31] RPC Error: request 7894 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 16:19:31] RPC Error: request 7895 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 16:19:31] RPC Error: request 7893 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.10 16:19:32] RPC Error: request 7912 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 16:19:32] RPC Error: request 7913 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 16:19:38] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.10 16:19:46] Audio Info: Closing audio playback device.
+[2025.12.10 16:41:42] RCManager: requesting map
+[2025.12.10 16:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.10 17:04:41] Skipping message, because it is already in blocks!
+[2025.12.10 17:25:13] RPC Error: request 8045 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 17:25:13] RPC Error: request 8046 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 17:25:46] RPC Error: request 8057 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 17:25:46] RPC Error: request 8058 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 17:25:50] RPC Error: request 8065 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 17:25:52] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.10 17:26:04] Audio Info: Closing audio playback device.
+[2025.12.10 17:41:42] RCManager: requesting map
+[2025.12.10 17:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.10 18:41:42] RCManager: requesting map
+[2025.12.10 18:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.10 19:41:42] RCManager: requesting map
+[2025.12.10 19:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.10 20:41:42] RCManager: requesting map
+[2025.12.10 20:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.10 21:41:42] RCManager: requesting map
+[2025.12.10 21:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.10 22:18:52] RPC Error: request 8939 got fail with code 400, error PEER_ID_INVALID
+[2025.12.10 22:18:54] UPDATE: 879,625 -> 877,616
+[2025.12.10 22:18:54] UPDATE: 879,625 -> 876,597
+[2025.12.10 22:18:54] UPDATE: 879,625 -> 875,585
+[2025.12.10 22:18:54] UPDATE: 879,625 -> 874,573
+[2025.12.10 22:18:54] UPDATE: 879,625 -> 872,547
+[2025.12.10 22:18:54] UPDATE: 879,625 -> 872,530
+[2025.12.10 22:18:54] UPDATE: 879,625 -> 872,510
+[2025.12.10 22:18:54] UPDATE: 879,625 -> 874,462
+[2025.12.10 22:18:54] UPDATE: 879,625 -> 877,433
+[2025.12.10 22:18:54] UPDATE: 879,625 -> 882,404
+[2025.12.10 22:18:54] UPDATE: 879,625 -> 895,346
+[2025.12.10 22:18:54] UPDATE: 879,625 -> 902,321
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 858,710
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 871,663
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 874,649
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 881,606
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 883,590
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 883,583
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 884,575
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 886,564
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 887,562
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 888,555
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 892,543
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 894,539
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 895,533
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 897,525
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 899,522
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 899,512
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 900,509
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 902,497
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 905,488
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 907,478
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 915,451
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 923,432
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 930,413
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 950,370
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 965,346
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 978,324
+[2025.12.10 22:18:55] UPDATE: 856,717 -> 992,303
+[2025.12.10 22:18:55] UPDATE: 879,684 -> 886,627
+[2025.12.10 22:18:55] UPDATE: 879,684 -> 888,613
+[2025.12.10 22:18:55] UPDATE: 879,684 -> 891,597
+[2025.12.10 22:18:55] UPDATE: 879,684 -> 896,565
+[2025.12.10 22:18:55] UPDATE: 879,684 -> 907,512
+[2025.12.10 22:18:55] UPDATE: 879,684 -> 910,499
+[2025.12.10 22:18:55] UPDATE: 879,684 -> 917,465
+[2025.12.10 22:18:55] UPDATE: 879,684 -> 919,457
+[2025.12.10 22:18:55] UPDATE: 879,684 -> 922,444
+[2025.12.10 22:18:55] UPDATE: 879,684 -> 929,418
+[2025.12.10 22:18:55] UPDATE: 879,684 -> 934,407
+[2025.12.10 22:18:55] UPDATE: 879,684 -> 937,395
+[2025.12.10 22:18:55] UPDATE: 879,684 -> 944,377
+[2025.12.10 22:18:55] UPDATE: 879,684 -> 948,370
+[2025.12.10 22:18:56] UPDATE: 879,684 -> 951,363
+[2025.12.10 22:18:56] UPDATE: 879,684 -> 959,348
+[2025.12.10 22:18:56] UPDATE: 879,684 -> 962,345
+[2025.12.10 22:18:56] UPDATE: 879,684 -> 962,344
+[2025.12.10 22:18:56] UPDATE: 879,684 -> 962,343
+[2025.12.10 22:18:56] UPDATE: 879,684 -> 962,342
+[2025.12.10 22:18:56] UPDATE: 879,684 -> 962,341
+[2025.12.10 22:18:57] UPDATE: 933,606 -> 934,593
+[2025.12.10 22:18:57] UPDATE: 933,606 -> 935,541
+[2025.12.10 22:18:57] UPDATE: 933,606 -> 935,525
+[2025.12.10 22:18:57] UPDATE: 933,606 -> 935,521
+[2025.12.10 22:18:57] UPDATE: 933,606 -> 935,517
+[2025.12.10 22:18:57] UPDATE: 933,606 -> 935,510
+[2025.12.10 22:18:57] UPDATE: 933,606 -> 935,508
+[2025.12.10 22:18:57] UPDATE: 933,606 -> 935,505
+[2025.12.10 22:18:57] UPDATE: 933,606 -> 935,502
+[2025.12.10 22:18:57] UPDATE: 933,606 -> 935,496
+[2025.12.10 22:18:57] UPDATE: 933,606 -> 935,494
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 935,493
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 935,492
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 935,490
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 935,486
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 935,484
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 935,481
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 935,473
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 936,469
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 936,464
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 938,444
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 940,435
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 941,432
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 941,427
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 942,420
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 943,417
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 944,413
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 945,407
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 945,405
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 947,401
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 951,394
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 960,380
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 962,377
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 963,374
+[2025.12.10 22:18:58] UPDATE: 933,606 -> 964,371
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 828,780
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 831,768
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 836,741
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 840,727
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 842,713
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 847,690
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 850,681
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 851,673
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 856,654
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 858,649
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 861,640
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 863,627
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 864,626
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 864,623
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 865,620
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 865,619
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 866,618
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 866,617
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 866,616
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 866,615
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 866,614
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 866,613
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 866,612
+[2025.12.10 22:18:59] UPDATE: 824,798 -> 866,611
+[2025.12.10 22:19:00] UPDATE: 824,798 -> 866,610
+[2025.12.10 22:19:01] UPDATE: 824,798 -> 867,610
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 884,660
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 889,629
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 890,623
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 893,609
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 896,589
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 896,585
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 897,581
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 899,573
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 899,570
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 899,569
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 900,565
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 901,563
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 901,561
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 902,556
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 902,554
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 902,551
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 905,541
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 906,535
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 907,533
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 907,530
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 909,525
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 910,522
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 910,519
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 910,515
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 912,514
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 912,512
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 913,508
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 913,506
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 914,502
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 915,502
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 915,500
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 915,498
+[2025.12.10 22:19:03] UPDATE: 882,670 -> 916,498
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 916,496
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 916,494
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 917,493
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 917,492
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 918,489
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 918,488
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 919,486
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 921,480
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 921,477
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 922,475
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 923,474
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 924,472
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 924,470
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 924,468
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 925,465
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 926,464
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 926,463
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 927,462
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 927,461
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 928,457
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 929,456
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 929,454
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 929,452
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 930,452
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 930,450
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 931,448
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 932,448
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 932,446
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 932,444
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 933,443
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 933,442
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 935,438
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 935,437
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 935,436
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 935,435
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 935,434
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 935,433
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 936,432
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 936,431
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 936,430
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 936,429
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 937,428
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 937,427
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 937,426
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 937,425
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 937,424
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 937,423
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 938,422
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 938,421
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 939,420
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 939,419
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 939,418
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 940,417
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 940,416
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 940,415
+[2025.12.10 22:19:04] UPDATE: 882,670 -> 940,414
+[2025.12.10 22:19:05] UPDATE: 882,670 -> 940,413
+[2025.12.10 22:19:05] UPDATE: 882,670 -> 941,413
+[2025.12.10 22:19:05] UPDATE: 992,464 -> 977,468
+[2025.12.10 22:41:42] RCManager: requesting map
+[2025.12.10 22:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.10 23:41:42] RCManager: requesting map
+[2025.12.10 23:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 00:41:42] RCManager: requesting map
+[2025.12.11 00:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 01:41:42] RCManager: requesting map
+[2025.12.11 01:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 02:41:42] RCManager: requesting map
+[2025.12.11 02:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 03:41:42] RCManager: requesting map
+[2025.12.11 03:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 04:41:42] RCManager: requesting map
+[2025.12.11 04:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 05:41:42] RCManager: requesting map
+[2025.12.11 05:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 06:41:42] RCManager: requesting map
+[2025.12.11 06:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 07:41:42] RCManager: requesting map
+[2025.12.11 07:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 08:41:42] RCManager: requesting map
+[2025.12.11 08:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 09:33:17] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 09:33:19] Audio Info: Closing audio playback device.
+[2025.12.11 09:33:51] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 09:33:53] Audio Info: Closing audio playback device.
+[2025.12.11 09:41:42] RCManager: requesting map
+[2025.12.11 09:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 09:41:47] MTP Info: -404 error received in 2 with temporary key, assuming it was destroyed.
+[2025.12.11 09:50:53] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 09:50:55] Audio Info: Closing audio playback device.
+[2025.12.11 09:51:40] MTP Info: -404 error received in 170002 with temporary key, assuming it was destroyed.
+[2025.12.11 09:51:41] RPC Error: request 12117 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.11 09:51:41] RPC Error: request 12116 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.11 09:51:41] RPC Error: request 12118 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.11 09:52:02] RPC Error: request 12153 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 09:52:02] RPC Error: request 12154 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 09:52:08] Skipping message, because it is already in blocks!
+[2025.12.11 09:52:12] Skipping message, because it is already in blocks!
+[2025.12.11 09:52:29] RPC Error: request 12187 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 09:52:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 09:52:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 09:52:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 09:52:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 09:52:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 09:52:30] API Warning: not loaded minimal channel applied.
+[2025.12.11 09:52:30] API Warning: not loaded minimal channel applied.
+[2025.12.11 09:52:30] RPC Error: request 12200 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.11 09:52:30] RPC Error: request 12197 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.11 09:52:30] RPC Error: request 12199 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.11 09:52:30] RPC Error: request 12194 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.11 09:52:30] RPC Error: request 12198 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.11 09:52:30] RPC Error: request 12195 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.11 09:52:30] RPC Error: request 12196 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.11 09:52:30] RPC Error: request 12214 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 09:52:30] RPC Error: request 12211 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 09:52:30] RPC Error: request 12217 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 09:52:30] RPC Error: request 12220 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 09:52:30] RPC Error: request 12226 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 09:52:30] RPC Error: request 12223 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 09:53:57] RPC Error: request 12287 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 09:53:57] RPC Error: request 12286 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 09:54:21] Skipping message, because it is already in blocks!
+[2025.12.11 09:55:55] RPC Error: request 12334 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 09:55:58] RPC Error: request 12346 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:01:44] MTP Info: -404 error received in 200203 with temporary key, assuming it was destroyed.
+[2025.12.11 10:01:44] MTP Info: -404 error received in 190203 with temporary key, assuming it was destroyed.
+[2025.12.11 10:01:44] MTP Info: -404 error received in 220203 with temporary key, assuming it was destroyed.
+[2025.12.11 10:01:44] MTP Info: -404 error received in 230203 with temporary key, assuming it was destroyed.
+[2025.12.11 10:02:07] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 10:02:09] Audio Info: Closing audio playback device.
+[2025.12.11 10:03:07] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 10:03:09] Audio Info: Closing audio playback device.
+[2025.12.11 10:04:09] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 10:04:11] Audio Info: Closing audio playback device.
+[2025.12.11 10:04:11] RPC Error: request 12367 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:04:11] RPC Error: request 12368 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:08:35] Skipping message, because it is already in blocks!
+[2025.12.11 10:08:39] RPC Error: request 12384 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:08:39] RPC Error: request 12385 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:08:45] Skipping message, because it is already in blocks!
+[2025.12.11 10:08:48] Skipping message, because it is already in blocks!
+[2025.12.11 10:08:50] Skipping message, because it is already in blocks!
+[2025.12.11 10:08:55] Skipping message, because it is already in blocks!
+[2025.12.11 10:10:02] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 10:10:04] Audio Info: Closing audio playback device.
+[2025.12.11 10:10:23] Skipping message, because it is already in blocks!
+[2025.12.11 10:11:13] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 10:11:15] Audio Info: Closing audio playback device.
+[2025.12.11 10:11:16] RPC Error: request 12458 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:11:16] RPC Error: request 12457 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:11:22] Skipping message, because it is already in blocks!
+[2025.12.11 10:11:23] RPC Error: request 12464 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:11:23] RPC Error: request 12465 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:12:34] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 10:12:36] Audio Info: Closing audio playback device.
+[2025.12.11 10:17:41] RPC Error: request 12607 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:21:34] RPC Error: request 12693 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:21:34] RPC Error: request 12694 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:21:36] Skipping message, because it is already in blocks!
+[2025.12.11 10:21:39] Skipping message, because it is already in blocks!
+[2025.12.11 10:21:45] Skipping message, because it is already in blocks!
+[2025.12.11 10:22:03] Skipping message, because it is already in blocks!
+[2025.12.11 10:22:15] Skipping message, because it is already in blocks!
+[2025.12.11 10:22:29] RPC Error: request 13013 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:22:29] RPC Error: request 13014 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:22:52] Skipping message, because it is already in blocks!
+[2025.12.11 10:23:24] RPC Error: request 13038 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:23:24] RPC Error: request 13037 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:23:58] RPC Error: request 13049 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:23:58] RPC Error: request 13050 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:24:17] RPC Error: request 13062 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:24:46] Export Info: Destroy top bar by controller removal.
+[2025.12.11 10:24:47] App Info: writing encrypted user settings...
+[2025.12.11 10:25:07] MTP Info: -404 error received in 170203 with temporary key, assuming it was destroyed.
+[2025.12.11 10:25:45] Export Info: Destroy top bar by controller removal.
+[2025.12.11 10:26:37] RPC Error: request 13604 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:26:37] RPC Error: request 13603 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:29:52] Skipping message, because it is already in blocks!
+[2025.12.11 10:31:05] RPC Error: request 13711 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:31:05] RPC Error: request 13710 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:31:56] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 10:31:57] RPC Error: request 13741 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:31:57] RPC Error: request 13740 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:31:58] Audio Info: Closing audio playback device.
+[2025.12.11 10:32:14] Skipping message, because it is already in blocks!
+[2025.12.11 10:32:30] RPC Error: request 13772 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:32:30] RPC Error: request 13771 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:32:33] Skipping message, because it is already in blocks!
+[2025.12.11 10:32:36] Skipping message, because it is already in blocks!
+[2025.12.11 10:32:41] Skipping message, because it is already in blocks!
+[2025.12.11 10:33:48] Skipping message, because it is already in blocks!
+[2025.12.11 10:34:28] Skipping message, because it is already in blocks!
+[2025.12.11 10:35:03] RPC Error: request 14133 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:35:03] RPC Error: request 14134 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:35:40] RPC Error: request 14171 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:35:40] RPC Error: request 14170 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:36:01] Skipping message, because it is already in blocks!
+[2025.12.11 10:36:08] Skipping message, because it is already in blocks!
+[2025.12.11 10:36:15] Skipping message, because it is already in blocks!
+[2025.12.11 10:36:26] Skipping message, because it is already in blocks!
+[2025.12.11 10:36:50] RPC Error: request 14225 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:36:50] RPC Error: request 14226 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:37:10] RPC Error: request 14244 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:37:11] RPC Error: request 14255 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 10:37:11] RPC Error: request 14258 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 10:37:11] RPC Error: request 14250 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.11 10:37:11] RPC Error: request 14273 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:37:34] RPC Error: request 14297 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:37:34] RPC Error: request 14300 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 10:37:34] Streaming Error: Error in avformat_open_input (code: -542398533, text: Generic error in an external library).
+[2025.12.11 10:37:52] RPC Error: request 14423 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 10:37:52] RPC Error: request 14419 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.11 10:37:58] RPC Error: request 14476 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:37:58] RPC Error: request 14479 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 10:38:36] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 10:39:26] Audio Info: Closing audio playback device.
+[2025.12.11 10:41:31] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 10:41:42] RCManager: requesting map
+[2025.12.11 10:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 10:42:14] Audio Info: Closing audio playback device.
+[2025.12.11 10:43:12] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 10:43:21] Audio Info: Closing audio playback device.
+[2025.12.11 10:43:22] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 10:43:28] Audio Info: Closing audio playback device.
+[2025.12.11 10:44:18] RPC Error: request 15781 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:44:18] RPC Error: request 15780 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:44:29] RPC Error: request 15801 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:44:29] RPC Error: request 15807 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 10:44:57] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 10:45:42] Audio Info: Closing audio playback device.
+[2025.12.11 10:45:53] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 10:46:26] Audio Info: Closing audio playback device.
+[2025.12.11 10:46:39] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 10:47:01] Audio Info: Closing audio playback device.
+[2025.12.11 10:47:03] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 10:47:10] Audio Info: Closing audio playback device.
+[2025.12.11 10:47:39] Streaming Error: Error in avformat_open_input (code: -542398533, text: Generic error in an external library).
+[2025.12.11 11:23:11] RPC Error: request 16959 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 11:23:11] RPC Error: request 16958 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 11:23:16] Skipping message, because it is already in blocks!
+[2025.12.11 11:23:19] Skipping message, because it is already in blocks!
+[2025.12.11 11:23:27] Skipping message, because it is already in blocks!
+[2025.12.11 11:29:16] RPC Error: request 17786 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 11:29:16] RPC Error: request 17787 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 11:29:19] Skipping message, because it is already in blocks!
+[2025.12.11 11:29:22] Skipping message, because it is already in blocks!
+[2025.12.11 11:29:27] Skipping message, because it is already in blocks!
+[2025.12.11 11:41:42] RCManager: requesting map
+[2025.12.11 11:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 11:46:43] RPC Error: request 18222 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 11:46:43] RPC Error: request 18223 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 11:46:45] Skipping message, because it is already in blocks!
+[2025.12.11 11:46:48] Skipping message, because it is already in blocks!
+[2025.12.11 11:46:53] Skipping message, because it is already in blocks!
+[2025.12.11 12:06:42] RPC Error: request 19325 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 12:06:42] RPC Error: request 19324 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 12:06:46] Skipping message, because it is already in blocks!
+[2025.12.11 12:06:48] Skipping message, because it is already in blocks!
+[2025.12.11 12:06:54] Skipping message, because it is already in blocks!
+[2025.12.11 12:15:37] RPC Error: request 19838 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 12:15:37] RPC Error: request 19839 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 12:21:13] RPC Error: request 20061 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 12:21:13] RPC Error: request 20062 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 12:22:06] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 12:22:08] Audio Info: Closing audio playback device.
+[2025.12.11 12:22:46] RPC Error: request 20466 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 12:22:46] RPC Error: request 20465 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 12:23:15] RPC Error: request 20472 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 12:23:15] RPC Error: request 20471 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 12:23:47] Skipping message, because it is already in blocks!
+[2025.12.11 12:23:51] RPC Error: request 20486 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 12:23:51] RPC Error: request 20485 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 12:23:52] RPC Error: request 20489 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 12:23:52] RPC Error: request 20488 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 12:37:02] Skipping message, because it is already in blocks!
+[2025.12.11 12:37:19] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 12:37:36] Audio Info: Closing audio playback device.
+[2025.12.11 12:37:36] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 12:37:42] Skipping message, because it is already in blocks!
+[2025.12.11 12:37:42] Audio Info: Closing audio playback device.
+[2025.12.11 12:41:42] RCManager: requesting map
+[2025.12.11 12:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 12:45:33] RPC Error: request 21424 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 12:46:36] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 12:46:38] Audio Info: Closing audio playback device.
+[2025.12.11 12:47:14] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 12:47:16] Audio Info: Closing audio playback device.
+[2025.12.11 12:47:20] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 12:47:22] Audio Info: Closing audio playback device.
+[2025.12.11 12:48:01] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 12:48:03] Audio Info: Closing audio playback device.
+[2025.12.11 12:49:27] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 12:49:29] RPC Error: request 21639 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 12:49:29] RPC Error: request 21638 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 12:49:29] Audio Info: Closing audio playback device.
+[2025.12.11 12:49:37] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 12:49:39] Audio Info: Closing audio playback device.
+[2025.12.11 12:56:08] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 12:56:17] Skipping message, because it is already in blocks!
+[2025.12.11 12:56:59] Audio Info: Closing audio playback device.
+[2025.12.11 12:57:59] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 12:58:12] Audio Info: Closing audio playback device.
+[2025.12.11 12:58:30] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 12:58:42] Audio Info: Closing audio playback device.
+[2025.12.11 12:58:43] Skipping message, because it is already in blocks!
+[2025.12.11 12:59:22] Skipping message, because it is already in blocks!
+[2025.12.11 12:59:45] Skipping message, because it is already in blocks!
+[2025.12.11 12:59:54] Skipping message, because it is already in blocks!
+[2025.12.11 13:13:06] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 13:13:08] Audio Info: Closing audio playback device.
+[2025.12.11 13:13:10] RPC Error: request 22305 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 13:13:10] RPC Error: request 22306 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 13:13:42] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 13:13:50] Audio Info: Closing audio playback device.
+[2025.12.11 13:14:43] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 13:14:45] Audio Info: Closing audio playback device.
+[2025.12.11 13:16:03] RPC Error: request 22452 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 13:16:03] RPC Error: request 22451 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 13:16:12] Skipping message, because it is already in blocks!
+[2025.12.11 13:16:33] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 13:16:35] Audio Info: Closing audio playback device.
+[2025.12.11 13:16:38] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 13:16:40] Audio Info: Closing audio playback device.
+[2025.12.11 13:18:26] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 13:18:28] Audio Info: Closing audio playback device.
+[2025.12.11 13:18:31] RPC Error: request 22869 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 13:18:31] RPC Error: request 22870 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 13:19:15] Skipping message, because it is already in blocks!
+[2025.12.11 13:41:42] RCManager: requesting map
+[2025.12.11 13:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 14:01:23] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 14:01:25] Audio Info: Closing audio playback device.
+[2025.12.11 14:05:49] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 14:05:49] RPC Error: request 23537 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 14:05:49] RPC Error: request 23536 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 14:05:51] Audio Info: Closing audio playback device.
+[2025.12.11 14:17:13] RPC Error: request 23565 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 14:17:13] RPC Error: request 23564 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 14:18:42] RPC Error: request 23574 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 14:18:42] RPC Error: request 23573 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 14:18:45] Skipping message, because it is already in blocks!
+[2025.12.11 14:18:48] Skipping message, because it is already in blocks!
+[2025.12.11 14:18:56] Skipping message, because it is already in blocks!
+[2025.12.11 14:19:01] Skipping message, because it is already in blocks!
+[2025.12.11 14:19:13] OpenGL: [TRUE] (Window)
+[2025.12.11 14:19:13] Call Info: Creating group instance
+[2025.12.11 14:19:13] Call Info: Requesting join payload.
+[2025.12.11 14:19:13] Call Info: Join payload received, joining with ssrc: 1285595755.
+[2025.12.11 14:19:17] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 14:19:18] Audio Info: Closing audio playback device.
+[2025.12.11 14:41:42] RCManager: requesting map
+[2025.12.11 14:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 14:52:42] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 14:52:43] Audio Info: Closing audio playback device.
+[2025.12.11 14:52:46] Call Info: Creating group instance
+[2025.12.11 14:52:46] Call Info: Requesting join payload.
+[2025.12.11 14:52:46] OpenGL: [TRUE] (Window)
+[2025.12.11 14:52:46] Call Info: Join payload received, joining with ssrc: 1679906962.
+[2025.12.11 14:53:03] Call Info: Rejoin after no my ssrc in checkGroupCall.
+[2025.12.11 14:53:03] Call Info: Requesting join payload.
+[2025.12.11 14:53:03] Call Info: Join payload received, joining with ssrc: 822489932.
+[2025.12.11 14:53:04] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 14:53:05] Audio Info: Closing audio playback device.
+[2025.12.11 14:54:33] RPC Error: request 25504 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 14:54:33] RPC Error: request 25503 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 15:09:09] RPC Error: request 25558 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 15:09:09] RPC Error: request 25555 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 15:09:11] RPC Error: request 25589 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 15:09:11] RPC Error: request 25586 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 15:09:46] MTP Info: -404 error received in 170004 with temporary key, assuming it was destroyed.
+[2025.12.11 15:13:45] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 15:13:47] Audio Info: Closing audio playback device.
+[2025.12.11 15:34:01] RPC Error: request 25916 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 15:36:48] Call Info: Hangup after groupCallDiscarded.
+[2025.12.11 15:36:48] Call Info: Hangup after groupCallDiscarded.
+[2025.12.11 15:36:52] RPC Error: request 25932 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 15:36:52] RPC Error: request 25931 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 15:41:42] RCManager: requesting map
+[2025.12.11 15:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 15:44:05] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 15:44:07] Audio Info: Closing audio playback device.
+[2025.12.11 15:44:09] RPC Error: request 26061 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 15:44:09] RPC Error: request 26062 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 15:44:18] Skipping message, because it is already in blocks!
+[2025.12.11 15:45:16] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 15:45:18] Audio Info: Closing audio playback device.
+[2025.12.11 15:45:30] RPC Error: request 26077 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 15:45:30] RPC Error: request 26076 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 15:52:56] RPC Error: request 26097 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 15:52:56] RPC Error: request 26098 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 15:52:59] RPC Error: request 26101 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 15:53:03] Export Info: Destroy top bar by controller removal.
+[2025.12.11 15:53:10] Export Info: Destroy top bar by controller removal.
+[2025.12.11 16:00:10] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 16:00:12] Audio Info: Closing audio playback device.
+[2025.12.11 16:03:04] History::unknownMessageDeleted. Peer ID: 2362531843, Message ID: 20610.
+[2025.12.11 16:13:38] RPC Error: request 26189 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:13:38] RPC Error: request 26188 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:20:56] RPC Error: request 26342 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:21:51] RPC Error: request 26349 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:21:51] RPC Error: request 26354 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:22:26] RPC Error: request 26366 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 16:22:26] RPC Error: request 26369 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 16:22:31] RPC Error: request 26383 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 16:22:31] RPC Error: request 26380 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:22:37] RPC Error: request 26607 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 16:22:37] RPC Error: request 26604 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:22:44] RPC Error: request 26628 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:22:44] RPC Error: request 26630 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 16:22:45] MTP Info: -404 error received in 160001 with temporary key, assuming it was destroyed.
+[2025.12.11 16:22:47] RPC Error: request 26654 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:22:47] RPC Error: request 26657 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 16:22:47] RPC Error: request 26691 got fail with code 400, error STICKERSET_INVALID
+[2025.12.11 16:23:22] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:27] RPC Error: request 26731 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 16:23:27] RPC Error: request 26729 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:23:27] RPC Error: request 26741 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 16:23:28] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:28] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:28] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:31] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:31] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:31] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:32] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:33] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:33] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:33] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:34] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:34] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:34] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:34] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:35] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:36] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:37] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:37] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:37] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:38] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:38] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:39] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:41] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:41] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:41] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:41] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:42] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:42] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:43] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:44] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:48] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:48] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:48] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:48] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:48] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:48] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:48] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:48] RPC Error: request 26911 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:23:48] RPC Error: request 26913 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 16:23:49] RPC Error: request 26928 got fail with code 400, error CHANNEL_PRIVATE
+[2025.12.11 16:23:49] RPC Error: request 26929 got fail with code 400, error CHANNEL_PRIVATE
+[2025.12.11 16:23:49] RPC Error: request 26930 got fail with code 400, error CHANNEL_PRIVATE
+[2025.12.11 16:23:49] RPC Error: request 26935 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:23:51] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:51] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:51] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:51] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:51] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:51] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:52] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:53] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:53] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:55] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:55] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:55] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:55] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:55] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:56] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:58] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:58] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:58] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:58] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:23:58] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:00] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:00] RPC Error: request 26965 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 16:24:00] RPC Error: request 26962 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:24:00] Streaming Error: Error in avformat_open_input (code: -542398533, text: Generic error in an external library).
+[2025.12.11 16:24:01] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:01] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:03] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:05] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:05] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:05] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:05] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:05] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:06] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:06] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:06] RPC Error: request 27035 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:24:06] RPC Error: request 27037 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 16:24:07] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:08] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:08] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:08] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:08] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:09] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:10] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:10] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:11] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:11] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:11] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:12] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:15] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:16] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:16] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:16] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:18] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:22] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:22] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:22] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:22] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:22] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:22] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:22] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:22] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:22] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:23] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:25] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:25] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:25] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:25] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:26] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:26] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:28] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:28] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:28] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:28] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:28] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:28] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:28] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:28] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] API Warning: not loaded minimal channel applied.
+[2025.12.11 16:24:29] RPC Error: request 27108 got fail with code 400, error CHANNEL_INVALID
+[2025.12.11 16:24:29] RPC Error: request 27106 got fail with code 400, error CHANNEL_INVALID
+[2025.12.11 16:24:29] RPC Error: request 27107 got fail with code 400, error CHANNEL_INVALID
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] App Error: Can't read history till unknown local message.
+[2025.12.11 16:24:43] Skipping message, because it is already in blocks!
+[2025.12.11 16:29:00] RPC Error: request 27221 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:30:53] RPC Error: request 27284 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:30:53] RPC Error: request 27283 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:35:07] History::unknownMessageDeleted. Peer ID: 2429405270, Message ID: 769436.
+[2025.12.11 16:35:07] History::unknownMessageDeleted. Peer ID: 2429405270, Message ID: 769437.
+[2025.12.11 16:35:07] History::unknownMessageDeleted. Peer ID: 2429405270, Message ID: 769438.
+[2025.12.11 16:35:07] History::unknownMessageDeleted. Peer ID: 2429405270, Message ID: 769439.
+[2025.12.11 16:35:07] History::unknownMessageDeleted. Peer ID: 2429405270, Message ID: 769440.
+[2025.12.11 16:35:07] History::unknownMessageDeleted. Peer ID: 2429405270, Message ID: 769441.
+[2025.12.11 16:35:07] History::unknownMessageDeleted. Peer ID: 2429405270, Message ID: 769443.
+[2025.12.11 16:35:07] History::unknownMessageDeleted. Peer ID: 2429405270, Message ID: 769444.
+[2025.12.11 16:35:07] History::unknownMessageDeleted. Peer ID: 2429405270, Message ID: 769445.
+[2025.12.11 16:36:29] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 16:36:31] Audio Info: Closing audio playback device.
+[2025.12.11 16:36:46] RPC Error: request 27530 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:36:46] RPC Error: request 27531 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:36:52] RPC Error: request 27541 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:36:52] RPC Error: request 27542 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 16:37:04] Skipping message, because it is already in blocks!
+[2025.12.11 16:41:42] RCManager: requesting map
+[2025.12.11 16:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 16:48:09] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 16:48:11] Audio Info: Closing audio playback device.
+[2025.12.11 16:50:06] Skipping message, because it is already in blocks!
+[2025.12.11 16:56:16] Skipping message, because it is already in blocks!
+[2025.12.11 16:56:27] OpenGL: [TRUE] (Window)
+[2025.12.11 16:56:27] Call Info: Creating group instance
+[2025.12.11 16:56:27] Call Info: Requesting join payload.
+[2025.12.11 16:56:27] Call Info: Join payload received, joining with ssrc: 2119786347.
+[2025.12.11 16:56:28] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 16:56:29] Audio Info: Closing audio playback device.
+[2025.12.11 17:01:54] Call Info: Hangup after groupCallDiscarded.
+[2025.12.11 17:01:54] Call Info: Hangup after groupCallDiscarded.
+[2025.12.11 17:12:35] RPC Error: request 27970 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:12:35] RPC Error: request 27971 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:12:40] RPC Error: request 27977 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:12:40] RPC Error: request 27976 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:12:47] Skipping message, because it is already in blocks!
+[2025.12.11 17:13:13] RPC Error: request 27984 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:13:13] RPC Error: request 27983 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:15:17] OpenGL: [TRUE] (Window)
+[2025.12.11 17:15:18] Call Info: Creating group instance
+[2025.12.11 17:15:18] Call Info: Requesting join payload.
+[2025.12.11 17:15:18] Call Info: Join payload received, joining with ssrc: 732437777.
+[2025.12.11 17:15:24] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 17:15:26] Audio Info: Closing audio playback device.
+[2025.12.11 17:16:47] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 17:16:49] Audio Info: Closing audio playback device.
+[2025.12.11 17:17:28] RPC Error: request 28012 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:17:28] RPC Error: request 28011 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:19:07] RPC Error: request 28032 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:19:07] RPC Error: request 28033 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:19:42] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 17:19:50] Audio Info: Closing audio playback device.
+[2025.12.11 17:20:18] RPC Error: request 28048 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:20:23] Skipping message, because it is already in blocks!
+[2025.12.11 17:21:20] Call Info: Creating group screen instance
+[2025.12.11 17:21:20] Call Info: Requesting join screen payload.
+[2025.12.11 17:21:21] Call Info: Join screen payload received, ssrc: 1446966156.
+[2025.12.11 17:22:58] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 17:22:59] Audio Info: Closing audio playback device.
+[2025.12.11 17:27:52] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 17:27:54] Audio Info: Closing audio playback device.
+[2025.12.11 17:31:50] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 17:31:52] Audio Info: Closing audio playback device.
+[2025.12.11 17:31:53] RPC Error: request 28092 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:31:53] RPC Error: request 28093 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:32:11] RPC Error: request 28099 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:32:11] RPC Error: request 28098 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:32:16] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 17:32:17] Audio Info: Closing audio playback device.
+[2025.12.11 17:32:19] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 17:32:21] Audio Info: Closing audio playback device.
+[2025.12.11 17:35:29] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 17:35:38] Audio Info: Closing audio playback device.
+[2025.12.11 17:37:46] RPC Error: request 28131 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:37:46] RPC Error: request 28132 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:41:42] RCManager: requesting map
+[2025.12.11 17:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 17:44:24] RPC Error: request 28169 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:44:44] RPC Error: request 28200 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:44:44] RPC Error: request 28201 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:44:57] RPC Error: request 28223 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:44:57] RPC Error: request 28224 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:45:05] Skipping message, because it is already in blocks!
+[2025.12.11 17:45:11] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 17:45:33] Audio Info: Closing audio playback device.
+[2025.12.11 17:46:08] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 17:46:10] Audio Info: Closing audio playback device.
+[2025.12.11 17:46:12] Skipping message, because it is already in blocks!
+[2025.12.11 17:46:39] Skipping message, because it is already in blocks!
+[2025.12.11 17:46:54] Skipping message, because it is already in blocks!
+[2025.12.11 17:47:28] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 17:47:30] Audio Info: Closing audio playback device.
+[2025.12.11 17:48:51] Skipping message, because it is already in blocks!
+[2025.12.11 17:49:34] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 17:49:36] Audio Info: Closing audio playback device.
+[2025.12.11 17:49:38] RPC Error: request 28550 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:49:38] RPC Error: request 28551 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:50:43] Skipping message, because it is already in blocks!
+[2025.12.11 17:51:03] Skipping message, because it is already in blocks!
+[2025.12.11 17:51:26] RPC Error: request 28669 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:51:26] RPC Error: request 28670 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:51:37] RPC Error: request 28675 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:51:37] RPC Error: request 28676 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:53:36] RPC Error: request 28806 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:53:36] RPC Error: request 28805 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 17:54:03] Skipping message, because it is already in blocks!
+[2025.12.11 17:54:37] Skipping message, because it is already in blocks!
+[2025.12.11 17:55:42] Skipping message, because it is already in blocks!
+[2025.12.11 18:01:27] Skipping message, because it is already in blocks!
+[2025.12.11 18:08:09] RPC Error: request 29735 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 18:08:09] RPC Error: request 29736 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 18:18:43] RPC Error: request 30410 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 18:18:43] RPC Error: request 30411 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 18:19:41] Skipping message, because it is already in blocks!
+[2025.12.11 18:25:41] RPC Error: request 30870 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 18:25:41] RPC Error: request 30869 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 18:25:45] Skipping message, because it is already in blocks!
+[2025.12.11 18:25:48] Skipping message, because it is already in blocks!
+[2025.12.11 18:25:58] Skipping message, because it is already in blocks!
+[2025.12.11 18:26:06] Skipping message, because it is already in blocks!
+[2025.12.11 18:26:06] App Info: writing encrypted user settings...
+[2025.12.11 18:26:12] RPC Error: request 32196 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 18:26:12] RPC Error: request 32195 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 18:26:24] RPC Error: request 32204 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 18:26:24] RPC Error: request 32205 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 18:26:32] RPC Error: request 32251 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.12.11 18:26:36] RPC Error: request 32258 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 18:27:54] RPC Error: request 32372 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 18:27:54] RPC Error: request 32371 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 18:28:12] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 18:28:24] Audio Info: Closing audio playback device.
+[2025.12.11 18:28:27] RPC Error: request 32622 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 18:28:27] RPC Error: request 32621 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 18:41:42] RCManager: requesting map
+[2025.12.11 18:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 18:49:34] RPC Error: request 33925 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 18:49:34] RPC Error: request 33926 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 18:56:51] History::unknownMessageDeleted. Peer ID: 2362531843, Message ID: 20620.
+[2025.12.11 19:10:40] RPC Error: request 35398 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 19:10:40] RPC Error: request 35397 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 19:10:46] Skipping message, because it is already in blocks!
+[2025.12.11 19:18:46] Export Info: Destroy top bar by controller removal.
+[2025.12.11 19:18:49] RPC Error: request 36195 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 19:18:49] RPC Error: request 36202 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.11 19:18:49] RPC Error: request 36203 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.11 19:18:49] RPC Error: request 36215 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 19:19:02] Export Info: Destroy top bar by controller removal.
+[2025.12.11 19:21:46] RPC Error: request 36454 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 19:21:46] RPC Error: request 36455 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 19:23:15] Call Info: Hangup after groupCallDiscarded.
+[2025.12.11 19:23:15] Call Info: Hangup after groupCallDiscarded.
+[2025.12.11 19:23:18] RPC Error: request 36567 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 19:23:18] RPC Error: request 36568 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 19:23:26] RPC Error: request 36578 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 19:23:26] RPC Error: request 36577 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 19:23:32] MTP Error: could not find request dc for delayed resend, requestId 36558
+[2025.12.11 19:24:19] RPC Error: request 36588 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 19:24:19] RPC Error: request 36587 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 19:24:22] Skipping message, because it is already in blocks!
+[2025.12.11 19:24:25] Skipping message, because it is already in blocks!
+[2025.12.11 19:24:34] Skipping message, because it is already in blocks!
+[2025.12.11 19:27:06] RPC Error: request 37282 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 19:27:06] RPC Error: request 37283 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 19:30:49] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 19:30:51] Audio Info: Closing audio playback device.
+[2025.12.11 19:41:42] RCManager: requesting map
+[2025.12.11 19:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 19:56:37] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.11 19:56:39] Audio Info: Closing audio playback device.
+[2025.12.11 20:07:50] RPC Error: request 38305 got fail with code 400, error PEER_ID_INVALID
+[2025.12.11 20:41:42] RCManager: requesting map
+[2025.12.11 20:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 21:41:42] RCManager: requesting map
+[2025.12.11 21:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 22:41:42] RCManager: requesting map
+[2025.12.11 22:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.11 23:41:42] RCManager: requesting map
+[2025.12.11 23:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 00:41:42] RCManager: requesting map
+[2025.12.12 00:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 01:41:42] RCManager: requesting map
+[2025.12.12 01:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 02:41:42] RCManager: requesting map
+[2025.12.12 02:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 03:41:42] RCManager: requesting map
+[2025.12.12 03:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 04:41:42] RCManager: requesting map
+[2025.12.12 04:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 05:41:42] RCManager: requesting map
+[2025.12.12 05:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 06:41:42] RCManager: requesting map
+[2025.12.12 06:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 07:41:42] RCManager: requesting map
+[2025.12.12 07:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 08:41:42] RCManager: requesting map
+[2025.12.12 08:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 09:20:48] RPC Error: request 44632 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 09:20:48] RPC Error: request 44631 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 09:20:48] RPC Error: request 44634 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 09:20:48] RPC Error: request 44636 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 09:20:48] RPC Error: request 44637 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 09:20:48] RPC Error: request 44635 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 09:20:48] RPC Error: request 44633 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 09:37:03] RPC Error: request 44663 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 09:37:03] RPC Error: request 44664 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 09:37:07] Skipping message, because it is already in blocks!
+[2025.12.12 09:41:42] RCManager: requesting map
+[2025.12.12 09:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 09:41:54] MTP Info: -404 error received in 2 with temporary key, assuming it was destroyed.
+[2025.12.12 09:57:54] RPC Error: request 44691 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 09:57:54] API Warning: not loaded minimal channel applied.
+[2025.12.12 09:57:54] API Warning: not loaded minimal channel applied.
+[2025.12.12 09:57:54] API Warning: not loaded minimal channel applied.
+[2025.12.12 09:57:55] RPC Error: request 44700 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 09:58:19] MTP Info: -404 error received in 180002 with temporary key, assuming it was destroyed.
+[2025.12.12 09:58:19] MTP Info: -404 error received in 200002 with temporary key, assuming it was destroyed.
+[2025.12.12 09:58:20] RPC Error: request 44714 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 10:01:50] MTP Info: -404 error received in 210203 with temporary key, assuming it was destroyed.
+[2025.12.12 10:17:09] RPC Error: request 44728 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 10:17:09] RPC Error: request 44737 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 10:24:30] MTP Info: -404 error received in 2 with temporary key, assuming it was destroyed.
+[2025.12.12 10:25:07] MTP Info: -404 error received in 190203 with temporary key, assuming it was destroyed.
+[2025.12.12 10:25:08] MTP Info: -404 error received in 180203 with temporary key, assuming it was destroyed.
+[2025.12.12 10:39:22] RPC Error: request 44774 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 10:39:22] RPC Error: request 44775 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 10:39:42] Skipping message, because it is already in blocks!
+[2025.12.12 10:40:04] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 10:40:06] Audio Info: Closing audio playback device.
+[2025.12.12 10:40:14] Skipping message, because it is already in blocks!
+[2025.12.12 10:41:35] Skipping message, because it is already in blocks!
+[2025.12.12 10:41:42] RCManager: requesting map
+[2025.12.12 10:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 10:42:21] Skipping message, because it is already in blocks!
+[2025.12.12 10:42:33] Skipping message, because it is already in blocks!
+[2025.12.12 10:43:26] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 10:43:28] Audio Info: Closing audio playback device.
+[2025.12.12 10:49:34] Skipping message, because it is already in blocks!
+[2025.12.12 10:50:20] Skipping message, because it is already in blocks!
+[2025.12.12 10:56:24] RPC Error: request 44833 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 10:56:24] RPC Error: request 44834 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 10:56:59] RPC Error: request 44843 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 10:56:59] RPC Error: request 44844 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 10:57:00] RPC Error: request 44850 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 10:57:00] RPC Error: request 44852 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 10:57:00] RPC Error: request 44857 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 10:57:00] RPC Error: request 44856 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 10:57:00] RPC Error: request 44854 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 10:57:00] RPC Error: request 44855 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 10:57:00] RPC Error: request 44851 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 10:57:00] RPC Error: request 44853 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 10:57:23] RPC Error: request 45006 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 10:57:23] RPC Error: request 45007 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 10:57:23] RPC Error: request 45005 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 10:57:23] RPC Error: request 45008 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 10:57:23] RPC Error: request 45009 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 10:57:23] RPC Error: request 45011 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 10:57:23] RPC Error: request 45010 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 10:57:23] RPC Error: request 45012 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 10:57:31] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 10:57:33] Audio Info: Closing audio playback device.
+[2025.12.12 10:57:44] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 10:57:46] Audio Info: Closing audio playback device.
+[2025.12.12 10:57:52] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 10:57:54] Audio Info: Closing audio playback device.
+[2025.12.12 11:01:56] Skipping message, because it is already in blocks!
+[2025.12.12 11:02:08] Skipping message, because it is already in blocks!
+[2025.12.12 11:02:17] Skipping message, because it is already in blocks!
+[2025.12.12 11:03:04] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:03:06] Audio Info: Closing audio playback device.
+[2025.12.12 11:03:17] RPC Error: request 45402 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:03:17] RPC Error: request 45403 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:04:05] Skipping message, because it is already in blocks!
+[2025.12.12 11:05:16] Skipping message, because it is already in blocks!
+[2025.12.12 11:05:18] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:05:20] RPC Error: request 45427 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:05:20] RPC Error: request 45428 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:05:20] Audio Info: Closing audio playback device.
+[2025.12.12 11:05:27] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:05:29] Audio Info: Closing audio playback device.
+[2025.12.12 11:05:46] Skipping message, because it is already in blocks!
+[2025.12.12 11:05:54] RPC Error: request 45437 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:05:54] RPC Error: request 45438 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:06:32] Skipping message, because it is already in blocks!
+[2025.12.12 11:07:09] Skipping message, because it is already in blocks!
+[2025.12.12 11:07:14] Skipping message, because it is already in blocks!
+[2025.12.12 11:07:30] RPC Error: request 45455 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:07:30] RPC Error: request 45456 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:07:37] Skipping message, because it is already in blocks!
+[2025.12.12 11:11:02] RPC Error: request 45466 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:11:02] RPC Error: request 45467 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:11:20] Skipping message, because it is already in blocks!
+[2025.12.12 11:11:23] Skipping message, because it is already in blocks!
+[2025.12.12 11:11:33] Skipping message, because it is already in blocks!
+[2025.12.12 11:11:40] App Info: writing encrypted user settings...
+[2025.12.12 11:11:40] Skipping message, because it is already in blocks!
+[2025.12.12 11:11:46] Skipping message, because it is already in blocks!
+[2025.12.12 11:11:51] RPC Error: request 47576 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:11:51] RPC Error: request 47577 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:11:52] Skipping message, because it is already in blocks!
+[2025.12.12 11:15:53] RPC Error: request 47615 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:15:53] RPC Error: request 47616 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:15:58] RPC Error: request 47622 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:15:58] RPC Error: request 47627 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:15:58] RPC Error: request 47624 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:15:58] RPC Error: request 47621 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:15:58] RPC Error: request 47626 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:15:58] RPC Error: request 47625 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:15:58] RPC Error: request 47620 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:15:58] RPC Error: request 47623 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:15:59] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:16:02] Audio Info: Closing audio playback device.
+[2025.12.12 11:16:02] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:16:03] Audio Info: Closing audio playback device.
+[2025.12.12 11:16:03] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:16:04] Audio Info: Closing audio playback device.
+[2025.12.12 11:16:04] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:16:07] Audio Info: Closing audio playback device.
+[2025.12.12 11:16:07] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:16:13] Audio Info: Closing audio playback device.
+[2025.12.12 11:16:13] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:16:18] Audio Info: Closing audio playback device.
+[2025.12.12 11:16:21] RPC Error: request 48007 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:16:21] RPC Error: request 48006 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:16:21] RPC Error: request 48005 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:16:21] RPC Error: request 48012 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:16:21] RPC Error: request 48009 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:16:21] RPC Error: request 48011 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:16:21] RPC Error: request 48010 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:16:21] RPC Error: request 48008 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:16:22] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:16:26] Audio Info: Closing audio playback device.
+[2025.12.12 11:16:27] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:16:31] Audio Info: Closing audio playback device.
+[2025.12.12 11:16:31] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:16:34] Audio Info: Closing audio playback device.
+[2025.12.12 11:16:34] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:16:40] RPC Error: request 48191 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:16:40] RPC Error: request 48190 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:16:40] RPC Error: request 48193 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:16:40] RPC Error: request 48196 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:16:40] RPC Error: request 48189 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:16:40] RPC Error: request 48195 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:16:40] RPC Error: request 48194 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:16:40] RPC Error: request 48192 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:16:40] Audio Info: Closing audio playback device.
+[2025.12.12 11:16:41] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:16:50] Audio Info: Closing audio playback device.
+[2025.12.12 11:16:50] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:16:56] Audio Info: Closing audio playback device.
+[2025.12.12 11:16:56] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:17:04] Audio Info: Closing audio playback device.
+[2025.12.12 11:17:04] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:17:06] Audio Info: Closing audio playback device.
+[2025.12.12 11:17:06] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:17:14] Audio Info: Closing audio playback device.
+[2025.12.12 11:17:15] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:17:17] Audio Info: Closing audio playback device.
+[2025.12.12 11:17:18] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:17:19] Audio Info: Closing audio playback device.
+[2025.12.12 11:17:19] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:17:24] Audio Info: Closing audio playback device.
+[2025.12.12 11:17:24] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:17:30] Audio Info: Closing audio playback device.
+[2025.12.12 11:17:36] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:17:42] Audio Info: Closing audio playback device.
+[2025.12.12 11:17:42] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:17:43] Audio Info: Closing audio playback device.
+[2025.12.12 11:17:43] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:17:45] Audio Info: Closing audio playback device.
+[2025.12.12 11:17:45] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:17:49] Audio Info: Closing audio playback device.
+[2025.12.12 11:18:20] Skipping message, because it is already in blocks!
+[2025.12.12 11:18:37] RPC Error: request 49088 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:18:37] RPC Error: request 49089 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:23:59] RPC Error: request 49280 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:23:59] RPC Error: request 49279 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:24:07] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:24:10] Audio Info: Closing audio playback device.
+[2025.12.12 11:24:13] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:24:24] Audio Info: Closing audio playback device.
+[2025.12.12 11:41:42] RCManager: requesting map
+[2025.12.12 11:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 11:41:53] RPC Error: request 49644 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:41:53] RPC Error: request 49645 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:42:12] Skipping message, because it is already in blocks!
+[2025.12.12 11:42:15] Skipping message, because it is already in blocks!
+[2025.12.12 11:42:20] Skipping message, because it is already in blocks!
+[2025.12.12 11:42:23] Skipping message, because it is already in blocks!
+[2025.12.12 11:42:35] RPC Error: request 50285 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:42:35] RPC Error: request 50284 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 11:56:27] App Error: Can't read history till unknown local message.
+[2025.12.12 11:56:27] App Error: Can't read history till unknown local message.
+[2025.12.12 11:56:27] App Error: Can't read history till unknown local message.
+[2025.12.12 11:56:27] App Error: Can't read history till unknown local message.
+[2025.12.12 11:56:27] App Error: Can't read history till unknown local message.
+[2025.12.12 11:56:27] App Error: Can't read history till unknown local message.
+[2025.12.12 11:56:27] App Error: Can't read history till unknown local message.
+[2025.12.12 11:56:27] App Error: Can't read history till unknown local message.
+[2025.12.12 11:56:27] App Error: Can't read history till unknown local message.
+[2025.12.12 11:56:27] App Error: Can't read history till unknown local message.
+[2025.12.12 11:56:27] App Error: Can't read history till unknown local message.
+[2025.12.12 11:56:27] App Error: Can't read history till unknown local message.
+[2025.12.12 11:56:27] App Error: Can't read history till unknown local message.
+[2025.12.12 11:56:27] App Error: Can't read history till unknown local message.
+[2025.12.12 11:56:27] App Error: Can't read history till unknown local message.
+[2025.12.12 11:56:27] App Error: Can't read history till unknown local message.
+[2025.12.12 11:56:27] App Error: Can't read history till unknown local message.
+[2025.12.12 11:56:41] Export Info: Destroy top bar by controller removal.
+[2025.12.12 11:56:45] MTP Info: -404 error received in 170002 with temporary key, assuming it was destroyed.
+[2025.12.12 11:56:46] RPC Error: request 50717 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:56:47] RPC Error: request 50719 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:56:47] RPC Error: request 50718 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:56:51] RPC Error: request 50747 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:56:51] RPC Error: request 50756 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 11:56:59] API Error: Could not resolve story 424771937_147
+[2025.12.12 11:57:03] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:57:05] Audio Info: Closing audio playback device.
+[2025.12.12 11:57:09] Export Info: Destroy top bar by controller removal.
+[2025.12.12 11:57:53] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:57:55] Audio Info: Closing audio playback device.
+[2025.12.12 11:58:32] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 11:58:34] Audio Info: Closing audio playback device.
+[2025.12.12 12:41:42] RCManager: requesting map
+[2025.12.12 12:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 12:49:50] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 12:49:52] Audio Info: Closing audio playback device.
+[2025.12.12 12:53:29] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 12:53:31] Audio Info: Closing audio playback device.
+[2025.12.12 12:53:38] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 12:53:40] Audio Info: Closing audio playback device.
+[2025.12.12 12:54:04] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 12:54:06] Audio Info: Closing audio playback device.
+[2025.12.12 12:54:39] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 12:54:41] Audio Info: Closing audio playback device.
+[2025.12.12 12:59:28] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 12:59:30] Audio Info: Closing audio playback device.
+[2025.12.12 13:01:38] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 13:01:40] Audio Info: Closing audio playback device.
+[2025.12.12 13:02:14] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 13:02:16] Audio Info: Closing audio playback device.
+[2025.12.12 13:03:20] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 13:03:21] Audio Info: Closing audio playback device.
+[2025.12.12 13:04:35] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 13:04:37] Audio Info: Closing audio playback device.
+[2025.12.12 13:05:29] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 13:05:31] Audio Info: Closing audio playback device.
+[2025.12.12 13:41:42] RCManager: requesting map
+[2025.12.12 13:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 14:12:02] RPC Error: request 50947 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 14:12:02] RPC Error: request 50946 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 14:12:31] RPC Error: request 50952 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 14:12:31] RPC Error: request 50955 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 14:41:42] RCManager: requesting map
+[2025.12.12 14:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 15:23:51] Export Info: Destroy top bar by controller removal.
+[2025.12.12 15:23:53] MTP Info: -404 error received in 160004 with temporary key, assuming it was destroyed.
+[2025.12.12 15:23:53] RPC Error: request 51540 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 15:23:54] RPC Error: request 51549 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 15:24:03] Export Info: Destroy top bar by controller removal.
+[2025.12.12 15:26:10] RPC Error: request 51579 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 15:27:24] RPC Error: request 51587 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 15:27:25] RPC Error: request 51601 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 15:27:25] RPC Error: request 51602 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 15:27:34] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 15:27:42] Audio Info: Closing audio playback device.
+[2025.12.12 15:27:42] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 15:29:43] Audio Info: Closing audio playback device.
+[2025.12.12 15:29:43] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 15:29:44] Audio Info: Closing audio playback device.
+[2025.12.12 15:29:44] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 15:29:48] Audio Info: Closing audio playback device.
+[2025.12.12 15:29:49] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 15:29:50] RPC Error: request 51621 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 15:29:50] RPC Error: request 51620 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 15:29:50] RPC Error: request 51623 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 15:29:50] RPC Error: request 51622 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 15:29:50] RPC Error: request 51624 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 15:30:01] Audio Info: Closing audio playback device.
+[2025.12.12 15:30:01] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 15:30:06] Audio Info: Closing audio playback device.
+[2025.12.12 15:30:06] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 15:30:09] Audio Info: Closing audio playback device.
+[2025.12.12 15:30:09] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 15:30:11] Audio Info: Closing audio playback device.
+[2025.12.12 15:30:11] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 15:30:14] Audio Info: Closing audio playback device.
+[2025.12.12 15:30:14] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 15:30:16] Audio Info: Closing audio playback device.
+[2025.12.12 15:41:42] RCManager: requesting map
+[2025.12.12 15:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 15:58:13] RPC Error: request 52547 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 15:58:13] RPC Error: request 52546 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 15:58:36] Skipping message, because it is already in blocks!
+[2025.12.12 15:58:41] OpenGL: [TRUE] (Window)
+[2025.12.12 15:58:42] Call Info: Creating group instance
+[2025.12.12 15:58:42] Call Info: Requesting join payload.
+[2025.12.12 15:58:42] Call Info: Join payload received, joining with ssrc: 909414855.
+[2025.12.12 15:58:42] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 15:58:43] Audio Info: Closing audio playback device.
+[2025.12.12 16:00:25] Call Info: Creating group screen instance
+[2025.12.12 16:00:25] Call Info: Requesting join screen payload.
+[2025.12.12 16:00:25] Call Info: Join screen payload received, ssrc: 1808844155.
+[2025.12.12 16:05:48] History::unknownMessageDeleted. Peer ID: 2362531843, Message ID: 20645.
+[2025.12.12 16:10:33] RPC Error: request 53083 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 16:10:33] RPC Error: request 53084 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 16:23:33] Call Info: Hangup after groupCallDiscarded.
+[2025.12.12 16:23:33] Call Info: Hangup after groupCallDiscarded.
+[2025.12.12 16:25:19] RPC Error: request 53504 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 16:25:19] RPC Error: request 53503 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 16:25:26] Skipping message, because it is already in blocks!
+[2025.12.12 16:25:46] Skipping message, because it is already in blocks!
+[2025.12.12 16:26:06] Skipping message, because it is already in blocks!
+[2025.12.12 16:26:16] Skipping message, because it is already in blocks!
+[2025.12.12 16:28:21] RPC Error: request 53531 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 16:28:21] RPC Error: request 53532 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 16:28:24] Skipping message, because it is already in blocks!
+[2025.12.12 16:28:27] Skipping message, because it is already in blocks!
+[2025.12.12 16:28:35] Skipping message, because it is already in blocks!
+[2025.12.12 16:28:43] App Info: writing encrypted user settings...
+[2025.12.12 16:28:44] Skipping message, because it is already in blocks!
+[2025.12.12 16:28:45] Skipping message, because it is already in blocks!
+[2025.12.12 16:28:59] RPC Error: request 55161 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 16:28:59] RPC Error: request 55162 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 16:31:47] RPC Error: request 55244 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 16:41:42] RCManager: requesting map
+[2025.12.12 16:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 16:46:02] API Warning: not loaded minimal channel applied.
+[2025.12.12 16:46:02] API Warning: not loaded minimal channel applied.
+[2025.12.12 16:46:02] API Warning: not loaded minimal channel applied.
+[2025.12.12 16:46:02] API Warning: not loaded minimal channel applied.
+[2025.12.12 16:47:07] RPC Error: request 55308 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 16:47:31] Export Info: Destroy top bar by controller removal.
+[2025.12.12 16:47:33] RPC Error: request 55325 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 16:47:33] RPC Error: request 55326 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 16:47:35] RPC Error: request 55338 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 16:47:35] RPC Error: request 55342 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2025.12.12 16:47:36] RPC Error: request 55354 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 16:47:40] Export Info: Destroy top bar by controller removal.
+[2025.12.12 16:47:43] RPC Error: request 55369 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 16:47:43] RPC Error: request 55370 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 16:57:23] RPC Error: request 55573 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 16:57:23] RPC Error: request 55572 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 17:21:27] RPC Error: request 55893 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 17:21:27] RPC Error: request 55894 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 17:21:33] Skipping message, because it is already in blocks!
+[2025.12.12 17:21:36] Skipping message, because it is already in blocks!
+[2025.12.12 17:21:44] Skipping message, because it is already in blocks!
+[2025.12.12 17:22:49] RPC Error: request 56599 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 17:22:49] RPC Error: request 56598 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 17:23:59] Skipping message, because it is already in blocks!
+[2025.12.12 17:24:38] Skipping message, because it is already in blocks!
+[2025.12.12 17:24:46] Skipping message, because it is already in blocks!
+[2025.12.12 17:29:50] RPC Error: request 56850 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 17:29:50] RPC Error: request 56849 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 17:33:32] App Error: Can't read history till unknown local message.
+[2025.12.12 17:33:32] App Error: Can't read history till unknown local message.
+[2025.12.12 17:33:32] App Error: Can't read history till unknown local message.
+[2025.12.12 17:33:32] App Error: Can't read history till unknown local message.
+[2025.12.12 17:33:32] App Error: Can't read history till unknown local message.
+[2025.12.12 17:33:32] App Error: Can't read history till unknown local message.
+[2025.12.12 17:33:32] App Error: Can't read history till unknown local message.
+[2025.12.12 17:33:32] App Error: Can't read history till unknown local message.
+[2025.12.12 17:33:32] App Error: Can't read history till unknown local message.
+[2025.12.12 17:33:32] App Error: Can't read history till unknown local message.
+[2025.12.12 17:33:32] App Error: Can't read history till unknown local message.
+[2025.12.12 17:33:32] App Error: Can't read history till unknown local message.
+[2025.12.12 17:33:32] App Error: Can't read history till unknown local message.
+[2025.12.12 17:33:32] App Error: Can't read history till unknown local message.
+[2025.12.12 17:33:32] App Error: Can't read history till unknown local message.
+[2025.12.12 17:33:32] App Error: Can't read history till unknown local message.
+[2025.12.12 17:33:32] App Error: Can't read history till unknown local message.
+[2025.12.12 17:41:42] RCManager: requesting map
+[2025.12.12 17:41:43] RCManager: Loaded 17 developers, 22 official channels
+[2025.12.12 18:11:41] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 18:11:43] Audio Info: Closing audio playback device.
+[2025.12.12 18:13:16] RPC Error: request 57604 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 18:13:16] RPC Error: request 57605 got fail with code 400, error PEER_ID_INVALID
+[2025.12.12 18:13:21] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 18:13:29] Audio Info: Closing audio playback device.
+[2025.12.12 18:13:35] Audio Info: recreating audio device and reattaching the tracks
+[2025.12.12 18:13:44] Audio Info: Closing audio playback device.
+[2025.12.12 18:13:59] Skipping message, because it is already in blocks!
